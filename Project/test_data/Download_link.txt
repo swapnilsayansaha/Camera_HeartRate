@@ -1,4 +1,8 @@
-Download the dataset used in the project from:
+
+Download  Ostankovich-Prathap-Afanasyev rPPG dataset from:
 https://github.com/vladostan/Dataset-for-video-based-pulse-detection
 Ground truth for the files:
 https://github.com/GPrathap/Towards-Human-Pulse-Rate-Estimation-from-Face-Video-Automatic-Component-Selection-and-Comparison-of/blob/master/data/ground_truths.csv 
+
+Check download information for UBFC-RPPG dataset from:
+https://sites.google.com/view/ybenezeth/ubfcrppg 
